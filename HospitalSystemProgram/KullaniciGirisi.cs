@@ -31,6 +31,6 @@ namespace HospitalSystemProgram
 ");User Id = MURAT;password=dal;";
             con.Open();
         }
-        //selam
+        
     }
 }
